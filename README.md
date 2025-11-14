@@ -4,7 +4,7 @@ A modern, responsive frontend template for a decentralized skill verification pl
 
 ## 🚀 Live Demo
 
-**View the template:** [https://proof-of-skill.netlify.app](proof-of-skill.netlify.app)
+Simply visit: [https://proof-of-skill.netlify.app](https://proof-of-skill.netlify.app)
 
 ### Template Features You Can Demo:
 - Responsive design across all devices
