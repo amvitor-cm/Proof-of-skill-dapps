@@ -4,7 +4,7 @@ A modern, responsive frontend template for a decentralized skill verification pl
 
 ## 🚀 Live Demo
 
-Simply visit: [https://proof-of-skill.netlify.app](https://proof-of-skill.netlify.app)
+Simply visit: [https://proof-of-skill-dapp-eich.vercel.app](https://proof-of-skill-dapp-eich.vercel.app)
 
 ### Template Features You Can Demo:
 - Responsive design across all devices
@@ -75,7 +75,7 @@ proof-of-skill-template/
 ## Getting Started
 
 ### View Live Demo
-Simply visit: [https://proof-of-skill.netlify.app](https://proof-of-skill.netlify.app)
+Simply visit: [https://proof-of-skill-dapp-eich.vercel.app](https://proof-of-skill-dapp-eich.vercel.app)
 
 ### Local Development
 1. Download the template files
@@ -185,6 +185,6 @@ This template is provided for demonstration purposes. All rights reserved.
 
 ---
 
-**Live Demo**: [https://proof-of-skill.netlify.app](https://proof-of-skill.netlify.app)
+**Live Demo**: [https://proof-of-skill-dapp-eich.vercel.app](https://proof-of-skill-dapp-eich.vercel.app)
 
 *Note: This is a frontend template with simulated functionality for demonstration purposes.*
