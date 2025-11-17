@@ -1,3 +1,6 @@
+![Website Preview](https://raw.githubusercontent.com/amvitor-cm/Proof-of-skill-dapps/main/POS1.png)
+ 
+ 
  Proof of Skill - Frontend Template
 
 A modern, responsive frontend template for a decentralized skill verification platform. This template demonstrates a complete user interface for a Web3 skill verification system with simulated blockchain interactions. 
