@@ -1,4 +1,4 @@
-# Proof of Skill - Frontend Template
+Noo Proof of Skill - Frontend Template
 
 A modern, responsive frontend template for a decentralized skill verification platform. This template demonstrates a complete user interface for a Web3 skill verification system with simulated blockchain interactions. 
 
@@ -26,7 +26,7 @@ This is a frontend template that showcases a potential decentralized skill verif
 - **Interactive Components**: Modals, forms, notifications, and animations
 - **Multi-Page Structure**: 6 complete pages with active navigation
 - **Simulated Web3**: Wallet connection and blockchain interactions
-- **No Backend Required**: Pure frontend implementation
+  
 
 ## Technology Stack
 
