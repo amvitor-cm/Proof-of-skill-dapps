@@ -2,7 +2,7 @@
 
 A modern, responsive frontend template for a decentralized skill verification platform. This template demonstrates a complete user interface for a Web3 skill verification system with simulated blockchain interactions. 
 
-## 🚀 Live Demo
+##  Live Demo
 
 Simply visit: [https://proof-of-skill-dapp-eich.vercel.app](https://proof-of-skill-dapp-eich.vercel.app)
 
