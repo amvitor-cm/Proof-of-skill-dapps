@@ -106,7 +106,7 @@ Modify CSS variables in `style.css`:
     --neon-blue: #00f3ff;
     --neon-purple: #b967ff;
     --dark-bg: #0f0f0f;
-    /* Update these to match your brand */
+    /*You can update these to match your brand */
 }
 ```
 
